@@ -220,14 +220,19 @@
 Questions
 
 1. What is Consumer and Customer API ? 
-   Ans. Is Consumer --> Lender And Customer --> Loan Apply karne wale
+   Ans. Is Consumer --> End User And Customer --> Agency approve karne wali
 2. What is work of Transaction Processor API ?
    Ans. Does User bank transaction
 3. What is this reissue key and generate from where ?
+   Ans. reissue key from account check and also generate from there
 4. What is this check [[#^ab20c2|Create Consumer if not exist]] ?
+   Ans. If Consumer is not exist in 
 5. What is Tagging Agent?
+   Ans. To Seperate Tansaction in category 
 6. What is Counseling PDF Adapter & MISMO Adapter
+   Ans. Basic Process
 7. Work of 3P Agregator and Account Check
+   Ans Account check is for Customer for getting the reissue key And Mx is for Consumer Bank Connection  
 Aggregator
 Tps Service 
 
